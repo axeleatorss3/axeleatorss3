@@ -1,4 +1,3 @@
-# personal_desc
 <body>
   <div id="header" align="center">
     <h1>About me</h1>
@@ -19,16 +18,23 @@
       ---
       ### :hammer_and_wrench: Languages and Frameworks  
      </div>
+      <br>
       <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50"/>&nbsp;
       </div>
+      <br>
+      <div>
+        ---
+        ### :fire: My Stats :
+      </div>
+     <br>
+     <div>
+       <img src="http://github-readme-streak-stats.herokuapp.com?user=axeleatorss3&theme=dark&background=000000">
+     </div>
   </div>
 </body>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-![](https://komarev.com/ghpvc/?username=axeleatorss3&style=flat-square&color=orange)
 
