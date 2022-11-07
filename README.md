@@ -1,22 +1,26 @@
-<body>
-  <div id="header" align="center">
-    <h1>About me</h1>
-    <img src="https://media.giphy.com/media/xT9Igr7COAUbVdZ7m8/giphy.gif" width="200"/>
-    <div id="badges">
-      <a href="your-linkedin-URL">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="your-youtube-URL">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-      </a>
+<body >
+    <div id="header" align="center" >
+      <h1>About me</h1>
+      <div>
+        <img src="https://media.giphy.com/media/xT9Igr7COAUbVdZ7m8/giphy.gif" width="200"/>
+      </div>
+      <br>
+      <div id="badges">
+        <a href="your-linkedin-URL">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="your-youtube-URL">
+          <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+        </a>
         <a href="your-twitter-URL">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
+          <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        </a>
      </div>
+    </div>
      <br>
      <div>
       ---
-      ### :hammer_and_wrench: Languages and Frameworks  
+       :hammer_and_wrench: Languages and Frameworks  
      </div>
       <br>
       <div>
@@ -28,13 +32,16 @@
       <br>
       <div>
         ---
-        ### :fire: My Stats :
+         :fire: My Stats :
       </div>
      <br>
      <div>
        <img src="http://github-readme-streak-stats.herokuapp.com?user=axeleatorss3&theme=dark&background=000000">
      </div>
-  </div>
+    <br>
+     <div>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axeleatorss3&layout=compact&theme=vision-friendly-dark" />
+     </div>
 </body>
 
 
