@@ -1,6 +1,7 @@
 <body >
     <div id="header" align="center" >
       <h1>About me</h1>
+        <p> Greetings 💻 🇲🇽 </p>
       <div>
         <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="300"/>
       </div>
@@ -29,6 +30,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="50"/>&nbsp;
+        <br>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50"/>&nbsp;
       </div>
       <br>
       <div  align="center">
@@ -38,7 +43,6 @@
      <br>
      <div  align="center">
        <img src="http://github-readme-streak-stats.herokuapp.com?user=axeleatorss3&theme=dark&background=000000">&nbsp;
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axeleatorss3&layout=compact&theme=vision-friendly-dark" />
      </div>
     <br>
 </body>
