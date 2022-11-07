@@ -13,6 +13,22 @@
         <a href="your-twitter-URL">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
-    </div>
+     </div>
+     <br>
+     <div>
+      ---
+      ### :hammer_and_wrench: Languages and Frameworks  
+     </div>
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50"/>
+      </div>
   </div>
 </body>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+![](https://komarev.com/ghpvc/?username=axeleatorss3&style=flat-square&color=orange)
+
