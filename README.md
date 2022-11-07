@@ -1,7 +1,8 @@
 <body >
     <div id="header" align="center" >
-      <h1>About me</h1>
-        <p> Greetings 💻 🇲🇽 </p>
+      <h1>A few things about me</h1>
+        <p>Greetings, I am a Fullstack developer with experience in differents framework 💻 🇲🇽 </p>
+          <p> 🔥 speciality in mobile development</p>
       <div>
         <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="300"/>
       </div>
@@ -38,7 +39,7 @@
       <br>
       <div  align="center">
         ---
-         :fire: My Stats :
+         🥇 My Stats :
       </div>
      <br>
      <div  align="center">
